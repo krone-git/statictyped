@@ -1,6 +1,7 @@
 # ./exception.py
 
 """
+Not yet implemented.
 """
 
 from .lib.exception import *

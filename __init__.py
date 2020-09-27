@@ -1,6 +1,7 @@
-# statictyping
+# statictyped
 
 """
+Not yet implemented.
 """
 
 from .lib import *
