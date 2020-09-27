@@ -4,4 +4,8 @@
 Not yet implemented.
 """
 
-__all__ = ()
+__all__ = ("StaticTypeError")
+
+
+class StaticTypeError(TypeError):
+    pass
